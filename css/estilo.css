@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*HEADER*/
+#topo {
+    background-color: blue;
+}
+
+#logo {
+    background-color: black;
+    background-image: url(../images/html.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 350px;
+    height: 350px;
+}
+
+
+
+/*NAV*/
+#menu {
+    background-color: violet;
+}
+
+
+
+/*MAIN*/
+.destaque {
+    background-color: yellow;
+}
+
+
+
+
+
+/*FOOTER*/
+#rodape {
+    background-color: red;
+}
+
+
